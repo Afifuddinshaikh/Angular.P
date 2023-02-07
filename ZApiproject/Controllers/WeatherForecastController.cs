@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace ZApiproject.Controllers
 {
-    [Authorize]
+    
     [ApiController]
     [Route("[controller]")]
     public class WeatherForecastController : ControllerBase

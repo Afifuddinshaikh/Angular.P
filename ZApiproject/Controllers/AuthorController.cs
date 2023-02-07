@@ -17,11 +17,11 @@ namespace ZApiproject.Controllers
            using (var Context=new EmployeeContext())
             {
                 //To get all list
-                ////return Context.Authors.ToList();
-                // return Context.Authors.Where(auth=>auth.AuthorId== 1).ToList();
+                //return Context.Authors.ToList();
+                //return Context.Authors.Where(auth=>auth.AuthorId== 1).ToList();
                 //add new data table
                 //Author auther=new Author();
-                //  auther.FirstName = "afif";
+                //auther.FirstName = "afif";
                 //  auther.LastName = "uddin";
                 //  Context.Authors.Add(auther);
                 //  Context.SaveChanges();
